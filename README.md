@@ -7,6 +7,6 @@
 ## User Stories
 
 | Number | Title | Story Point | Release |
-| 1 |
-| 2 |
-| 3 |
+|--------|-------|-------------|---------|
+| 1 | Display all medicines | 3 | Halfway |
+
