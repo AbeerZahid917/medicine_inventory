@@ -1,2 +1,12 @@
-# medicine_inventory
-to list and keep track of medcines and their quantities
+# Medicine Inventory Android App
+
+## Contents
+  - [User Stories](#user-stories)
+
+
+## User Stories
+
+| Number | Title | Story Point | Release |
+| 1 |
+| 2 |
+| 3 |
