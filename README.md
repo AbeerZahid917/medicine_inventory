@@ -3,6 +3,7 @@
 ## Contents
   - [User Stories](#user-stories)
   - [Information on Methodology](#information-on-methodology)
+  - [Sprints](#sprints)
 
 
 ## User Stories
@@ -24,16 +25,22 @@
 | 13 | Alternatives for medicine | L | 3 |
 | 14 | Dark mode | M | 4 |
 | 15 | Export data CSV/PDF | L | 4 |
-| 16 |
-| 17 |
-| 18 |
-| 19 |
-| 20 |
-
-
+| 16 | Profiles | M | 5 |
+| 17 | Change font size | M | 5 |
+| 18 | Filter by purpose | L | 5 |
+| 19 | Day-wise Filtering | S | 1 |
+| 20 | Time-wise Filtering | M | 1 | 
 
 
 ## Information on Methodology
   - Agile framework with mini sprints was used
-  - 
+  - Duration of sprints = 1 Week
+
+## Sprints 
+
+| Number | Title | Start Date | End Date |
+|--------|-------|------------|----------|
+| 1 | Figma Screens draft | 24-05-2026 | 30-05-2026 | 
+| 2 | Figma Screens finalized | 31-05-2026 | 06-06-2026 | 
+
 
