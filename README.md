@@ -4,6 +4,7 @@
   - [User Stories](#user-stories)
   - [Information on Methodology](#information-on-methodology)
   - [Sprints](#sprints)
+  - [Figma Link](#figma-link)
 
 
 ## User Stories
@@ -44,3 +45,4 @@
 | 2 | Figma Screens finalized | 31-05-2026 | 06-06-2026 | 
 
 
+## Figma Link
